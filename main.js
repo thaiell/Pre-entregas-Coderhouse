@@ -116,7 +116,6 @@ function bienvenido(){
     }
     }
 
-
 /*                                                      INICIO DE LOS ALGORITMOS                                                    */
 // pide nombre y apellido
 
